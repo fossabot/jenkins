@@ -6,6 +6,7 @@
 [![Jenkins LTS Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog-stable%2Fbadge.json)](https://jenkins.io/changelog-stable)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jenkins/jenkins.svg)](https://hub.docker.com/r/jenkins/jenkins/)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3538/badge)](https://bestpractices.coreinfrastructure.org/projects/3538)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjones2026%2Fjenkins.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjones2026%2Fjenkins?ref=badge_shield)
 
 In a nutshell, Jenkins is the leading open-source automation server. 
 Built with Java, it provides over 1700 [plugins](https://plugins.jenkins.io/) to support automating virtually anything, 
@@ -74,3 +75,6 @@ Jenkins is **licensed** under the **[MIT License]**.
 [Mirrors]: http://mirrors.jenkins-ci.org
 [GitHub]: https://github.com/jenkinsci/jenkins
 [website]: https://jenkins.io/
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjones2026%2Fjenkins.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjones2026%2Fjenkins?ref=badge_large)
